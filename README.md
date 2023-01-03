@@ -26,3 +26,13 @@ GET /api/reservar/v1/reserva/{reservaId}
 GET /api/reservar/v1/usuario/{usuarioId}
 GET /api/reservar/v1/habitacion/{habitacionId}
 ```
+## Uso
+
+Para ejecutar el programa es necesario contar con un dispositivo móvil.
+Se puede utilizar un dispositivo externo, o un emulador proporcionado por Android Studio.
+
+
+```bash
+    Emulador utilizado: Pixel_3a_API_33_x86_64
+    Dispositivo externo: Conectar por medio de DeviceManager
+```
