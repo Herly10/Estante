@@ -1,6 +1,6 @@
 # BOOK A ROOM - FRONTEND
 
-Repositorio para el frontend del proyecto de Desarrollo de Sistemas Móviles
+Repositorio para el frontend del proyecto de Desarrollo de Sistemas Móviles. 
 Tribu: Reggaeton / 
 Squad: Bad Bunny
 
