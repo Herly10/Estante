@@ -1,9 +1,13 @@
-# Estante
+# BOOK A ROOM - BACKEND
 
-Se implementó el IDE Android Studio, se utilizaron diversas clases Kotlin y Java
+Repositorio para el backend del proyecto de Desarrollo de Sistemas Móviles
+Tibu: Reggaeton
+Squad: Bad Bunny
+
 
 ## Principales librerías
 
+Se implementó el IDE Android Studio, se utilizaron diversas clases Kotlin y Java
 Es necesario implementar las siguientes librerías para el correcto funcionamiento
 
 ```bash
