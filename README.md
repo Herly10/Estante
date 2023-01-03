@@ -1,4 +1,4 @@
-# BOOK A ROOM - BACKEND
+# BOOK A ROOM - FRONTEND
 
 Repositorio para el frontend del proyecto de Desarrollo de Sistemas Móviles
 Tibu: Reggaeton
