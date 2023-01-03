@@ -4,7 +4,7 @@ Se implementó el IDE Android Studio, se utilizaron diversas clases Kotlin y Jav
 
 ## Principales librerías
 
-Es necesario implementar las siguientes librerías
+Es necesario implementar las siguientes librerías para el correcto funcionamiento
 
 ```bash
     implementation "com.stripe:stripe-java:22.2.0"
