@@ -17,19 +17,6 @@ Es necesario implementar las siguientes librerías para el correcto funcionamien
     implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.5.1"
 ```
 
-## Rutas al Backend
-
-```python
-GET /api/reservar/v1/hotel
-GET /api/reservar/v1/usuario
-GET /api/reservar/v1/habitacion
-GET /api/reservar/v1/reserva
-
-GET /api/reservar/v1/hotel/{hotelId}
-GET /api/reservar/v1/reserva/{reservaId}
-GET /api/reservar/v1/usuario/{usuarioId}
-GET /api/reservar/v1/habitacion/{habitacionId}
-```
 ## Uso
 
 Para ejecutar el programa es necesario contar con un dispositivo móvil.
